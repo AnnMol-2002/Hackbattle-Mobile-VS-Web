@@ -46,5 +46,5 @@ Learned to work in a team under pressure and the most important thing is time ma
 - [Ann Mol](https://github.com/AnnMol-2002)
 
 ## Demo
-- Link:https://youtu.be/oUuaJZZOByQ
-- Link:https://youtu.be/fueQUDI2zK0
+- https://youtu.be/oUuaJZZOByQ
+- https://youtu.be/fueQUDI2zK0
