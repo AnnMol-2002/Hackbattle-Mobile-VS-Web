@@ -41,9 +41,9 @@ Learned to work in a team under pressure and the most important thing is time ma
 2. Including more sustainable and eco-friendly products
 
 ## Team Members
--[Aditi Ajithkumar](https://github.com/AditiAjithkumar)
--[Haseena Beegam H](https://github.com/HaseenaBeegamH)
--[Ann Mol](https://github.com/AnnMol-2002)
+- [Aditi Ajithkumar](https://github.com/AditiAjithkumar)
+- [Haseena Beegam H](https://github.com/HaseenaBeegamH)
+- [Ann Mol](https://github.com/AnnMol-2002)
 
 ## Demo
 - Link:https://youtu.be/oUuaJZZOByQ
