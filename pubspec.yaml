@@ -1,0 +1,40 @@
+description: "A new Flutter application."
+name: "flutterapp"
+publish_to: "none"
+version: "1.0.0+1"
+dependencies: 
+  cupertino_icons: "^1.0.5"
+  path_drawing: "^1.0.0"
+  flutter: 
+    sdk: "flutter"
+dev_dependencies: 
+  flutter_test: 
+    sdk: "flutter"
+environment: 
+  sdk: ">=2.12.0 <3.0.0"
+flutter: 
+  assets: 
+    - "assets/images/"
+  fonts: 
+    - 
+      family: "Poly"
+      fonts: 
+        - 
+          asset: "fonts/Poly-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Poppins"
+      fonts: 
+        - 
+          asset: "fonts/Poppins-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Inter"
+      fonts: 
+        - 
+          asset: "fonts/Inter-regular.ttf"
+          style: "normal"
+          weight: 400
+  uses-material-design: true
