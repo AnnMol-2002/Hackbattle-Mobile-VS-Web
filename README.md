@@ -1,4 +1,5 @@
 # Femmefinds
+A platform to shop dresses, cosmetic products, menstrual products and other accessories useful for women with an additional feature for selling used and undamaged clothes at a lower cost and request recycling of makeup and cosmetic products.
 
 ## Inspiration
 There are many reasons why a sustainable online shopping platform for women's fashion is needed. The fashion industry is known for its negative impact on the environment, from the use of water, energy, and resources to the production of waste and pollution. Women, in particular, are often targeted by fast fashion companies, which promote a culture of disposable clothing and encourage frequent purchases that harm the environment.
